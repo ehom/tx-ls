@@ -4,7 +4,7 @@
 
 ```bash
 
-Usage: tx-ls.rb [options]
+Usage: tx-ls [options]
 
 Options
         --formats                    List supported formats
